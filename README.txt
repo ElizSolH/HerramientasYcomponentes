@@ -1,2 +1,0 @@
-########################################
-Componentes y herramientas creadas
